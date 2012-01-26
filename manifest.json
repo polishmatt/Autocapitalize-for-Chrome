@@ -1,6 +1,6 @@
 {
   "name": "Autocapitalize",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Capitalizes the first letter in a sentence.",
   "icons": { 
     "16": "icon16.png",
